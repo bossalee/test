@@ -9,7 +9,7 @@
             "ZfApp\\Test\\": "src/"
         },
         "classmap": [
-            "src/"
+            "src/Facade.php"
         ]
     },
     "license": "proprietary",
