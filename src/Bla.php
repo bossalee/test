@@ -5,6 +5,6 @@ class Bla
 {
 	public function test()
 	{
-		echo "Hello bla";
+		echo "Hello bla1";
 	}
 }
