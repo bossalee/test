@@ -1,5 +1,5 @@
 {
-    "name": "zf-app/test",
+    "name": "zfapp/test",
     "type": "github",
     "require": {
         "php": ">=5.3.0"
